@@ -50,7 +50,6 @@ export default function Shop() {
                   Buy Now
                 </a>
               </div>
-              </div>
             </div>
           ))}
         </div>
