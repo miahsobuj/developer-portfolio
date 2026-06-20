@@ -48,7 +48,8 @@ export default function Shop() {
                 <span className="text-2xl font-bold text-indigo-600">{product.price}</span>
                 <a href="#" className="ml-auto rounded-md bg-indigo-600 px-4 py-2 text-sm font-medium text-white hover:bg-indigo-700 transition-colors">
                   Buy Now
-                </div>
+                </a>
+              </div>
               </div>
             </div>
           ))}
